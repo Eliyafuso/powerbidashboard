@@ -1,5 +1,5 @@
-# powerbidashboard
-Employee Satisfaction & Performance Dashboard in Power BI
+# Employee Satisfaction & Performance Dashboard in Power BI
+
 
 ## Key Tasks:
 - 🧹 **Data cleaning and transformation**
